@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673209143 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the3_2374429\ee441_pa3_2374429_p2\q2\matrix.cpp
+	"Class.hpp"
+
+1673209499 c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the3_2374429\ee441_pa3_2374429_p2\q2\class.hpp
+	<iostream>
+
+1673209472 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the3_2374429\ee441_pa3_2374429_p2\q2\hash.cpp
+	<iostream>
+	"Class.hpp"
+
+1673210040 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the3_2374429\ee441_pa3_2374429_p2\q2\benchmark.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	<string>
+	"Class.hpp"
+	<chrono>
+

@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1667469072 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\question1\matrix.cpp
+	"matrix.hpp"
+
+1667468283 c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\question1\matrix.hpp
+	<iostream>
+
+1667468916 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\question1\main.cpp
+	"matrix.cpp"
+
+1667469072 c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\question1\matrix.cpp
+	"matrix.hpp"
+
+1667751709 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\ee441_pa1_2374429_p1\main.cpp
+	"matrix.cpp"
+
+1667752054 c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\ee441_pa1_2374429_p1\matrix.cpp
+	"matrix.hpp"
+
+1667752280 c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\ee441_pa1_2374429_p1\matrix.hpp
+	<iostream>
+
+1667752054 source:c:\users\omarf\desktop\eee\4.1sinif\ee441\codes\the1_2374429\ee441_pa1_2374429_p1\matrix.cpp
+	"matrix.hpp"
+

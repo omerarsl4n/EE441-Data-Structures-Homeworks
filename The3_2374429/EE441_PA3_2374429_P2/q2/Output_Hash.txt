@@ -1,0 +1,179 @@
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/11/0.txt
+det: -135960
+Time to compute the determinant: 0.0071421
+Memory usage to compute the determinant: 815
+Average time to compute any matrices determinant: 0.0071421
+Average memory usage to compute the determinant: 815
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/11/1.txt
+det: -8996
+Time to compute the determinant: 0.0039849
+Memory usage to compute the determinant: 449
+Average time to compute any matrices determinant: 0.0055635
+Average memory usage to compute the determinant: 632
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/11/2.txt
+det: 7029
+Time to compute the determinant: 0.0090656
+Memory usage to compute the determinant: 1099
+Average time to compute any matrices determinant: 0.00673087
+Average memory usage to compute the determinant: 787
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/11/3.txt
+det: 75240
+Time to compute the determinant: 0.0040622
+Memory usage to compute the determinant: 491
+Average time to compute any matrices determinant: 0.0060637
+Average memory usage to compute the determinant: 713
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/11/4.txt
+det: -27344
+Time to compute the determinant: 0.0111767
+Memory usage to compute the determinant: 1526
+Average time to compute any matrices determinant: 0.0070863
+Average memory usage to compute the determinant: 876
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/12/0.txt
+det: 200352
+Time to compute the determinant: 0.0081914
+Memory usage to compute the determinant: 655
+Average time to compute any matrices determinant: 0.00727048
+Average memory usage to compute the determinant: 839
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/12/1.txt
+det: -460962
+Time to compute the determinant: 0.0149194
+Memory usage to compute the determinant: 1430
+Average time to compute any matrices determinant: 0.00836319
+Average memory usage to compute the determinant: 923
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/12/2.txt
+det: 80850
+Time to compute the determinant: 0.0182441
+Memory usage to compute the determinant: 2057
+Average time to compute any matrices determinant: 0.0095983
+Average memory usage to compute the determinant: 1065
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/12/3.txt
+det: -24525
+Time to compute the determinant: 0.0248244
+Memory usage to compute the determinant: 2957
+Average time to compute any matrices determinant: 0.0112901
+Average memory usage to compute the determinant: 1275
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/12/4.txt
+det: 451837
+Time to compute the determinant: 0.0155826
+Memory usage to compute the determinant: 1415
+Average time to compute any matrices determinant: 0.0117193
+Average memory usage to compute the determinant: 1289
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/13/0.txt
+det: -14995
+Time to compute the determinant: 0.0425701
+Memory usage to compute the determinant: 3016
+Average time to compute any matrices determinant: 0.014524
+Average memory usage to compute the determinant: 1446
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/13/1.txt
+det: -422071
+Time to compute the determinant: 0.0336413
+Memory usage to compute the determinant: 2301
+Average time to compute any matrices determinant: 0.0161171
+Average memory usage to compute the determinant: 1517
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/13/2.txt
+det: -578
+Time to compute the determinant: 0.0368678
+Memory usage to compute the determinant: 3198
+Average time to compute any matrices determinant: 0.0177133
+Average memory usage to compute the determinant: 1646
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/13/3.txt
+det: -9626
+Time to compute the determinant: 0.0248081
+Memory usage to compute the determinant: 1578
+Average time to compute any matrices determinant: 0.01822
+Average memory usage to compute the determinant: 1641
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/13/4.txt
+det: -54315
+Time to compute the determinant: 0.0213121
+Memory usage to compute the determinant: 1869
+Average time to compute any matrices determinant: 0.0184262
+Average memory usage to compute the determinant: 1657
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/14/0.txt
+det: -8092
+Time to compute the determinant: 0.0599973
+Memory usage to compute the determinant: 3408
+Average time to compute any matrices determinant: 0.0210244
+Average memory usage to compute the determinant: 1766
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/14/1.txt
+det: -63062
+Time to compute the determinant: 0.0578623
+Memory usage to compute the determinant: 2988
+Average time to compute any matrices determinant: 0.0231913
+Average memory usage to compute the determinant: 1838
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/14/2.txt
+det: -1814
+Time to compute the determinant: 0.0543175
+Memory usage to compute the determinant: 2623
+Average time to compute any matrices determinant: 0.0249205
+Average memory usage to compute the determinant: 1881
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/14/3.txt
+det: 915002
+Time to compute the determinant: 0.0310821
+Memory usage to compute the determinant: 1636
+Average time to compute any matrices determinant: 0.0252448
+Average memory usage to compute the determinant: 1869
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/14/4.txt
+det: -150480
+Time to compute the determinant: 0.0483792
+Memory usage to compute the determinant: 2945
+Average time to compute any matrices determinant: 0.0264016
+Average memory usage to compute the determinant: 1922
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/15/0.txt
+det: -31283
+Time to compute the determinant: 0.0636148
+Memory usage to compute the determinant: 2630
+Average time to compute any matrices determinant: 0.0281736
+Average memory usage to compute the determinant: 1956
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/15/1.txt
+det: -192
+Time to compute the determinant: 0.295881
+Memory usage to compute the determinant: 17563
+Average time to compute any matrices determinant: 0.0403421
+Average memory usage to compute the determinant: 2665
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/15/2.txt
+det: -4521
+Time to compute the determinant: 0.133338
+Memory usage to compute the determinant: 6332
+Average time to compute any matrices determinant: 0.0443854
+Average memory usage to compute the determinant: 2825
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/15/3.txt
+det: -2763
+Time to compute the determinant: 0.0658292
+Memory usage to compute the determinant: 2671
+Average time to compute any matrices determinant: 0.0452789
+Average memory usage to compute the determinant: 2818
+
+C:/Users/omarf/Desktop/EEE/4.1SINIF/EE441/Codes/The3_2374429/matrices/15/4.txt
+det: 48952
+Time to compute the determinant: 0.0881622
+Memory usage to compute the determinant: 4492
+Average time to compute any matrices determinant: 0.0469943
+Average memory usage to compute the determinant: 2885
+
+Average time samples
+0.0071421, 0.0055635, 0.00673087, 0.0060637, 0.0070863, 0.00727048, 0.00836319, 0.0095983, 0.0112901, 0.0117193, 0.014524, 0.0161171, 0.0177133, 0.01822, 0.0184262, 0.0210244, 0.0231913, 0.0249205, 0.0252448, 0.0264016, 0.0281736, 0.0403421, 0.0443854, 0.0452789, 0.0469943, 
+Average count samples
+815, 632, 787, 713, 876, 839, 923, 1065, 1275, 1289, 1446, 1517, 1646, 1641, 1657, 1766, 1838, 1881, 1869, 1922, 1956, 2665, 2825, 2818, 2885, 
