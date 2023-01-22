@@ -5,7 +5,7 @@ Matrix<N> add_array(Matrix<N>  &arr1, Matrix<N> &arr2){
     Matrix<N> temp_mat;
     double temp=0;
     for(int i=0;i<arr1.SIZE;i++){
-        for(int j=0;j<arr2.SIZE;j++){
+        for(int j=0;j<arr2.SIZE;j++){//
             temp = arr1.getelement(i,j)+arr2.getelement(i,j); //it is direct addition with the index
             temp_mat.setelement(i,j,temp);
         }

@@ -15,7 +15,7 @@ BST_Node::BST_Node(const Matrix& item, BST_Node *lptr, BST_Node *rptr, long det)
 bool key_exists(Matrix A, BST_Node *root){  //search for key exist in the tree
     bool x;
     if(root == NULL)return false;
-    if(root->key == A) return true;
+    if(root->key == A) return true;//
     else{
         if((root->key)< A)x = key_exists(A, root->right);
         else x = key_exists(A, root->left);

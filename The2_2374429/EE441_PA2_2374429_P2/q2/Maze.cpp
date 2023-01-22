@@ -8,7 +8,7 @@ Maze::Maze(){
  input_file >> nrow >> ncol; /* read the size from file */
 
  for(int i=0; i<nrow; ++i){
-    for(int j=0; j<ncol; ++j){
+    for(int j=0; j<ncol; ++j){//
         input_file >> arr[i][j];
         if(arr[i][j] == 'W' || arr[i][j] == 'N' || arr[i][j] == 'E' || arr[i][j] == 'S'){
             curr_row = i;
